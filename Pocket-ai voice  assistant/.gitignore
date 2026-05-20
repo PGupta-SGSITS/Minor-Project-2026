@@ -1,0 +1,10 @@
+# Ignore Arduino IDE build artifacts
+build/
+bin/
+
+# Ignore local configuration or private backup files
+*.local.h
+*config_private.h
+
+# Safety warning for security tokens 
+# Recommended: Keep your credentials in a separate ignored file or environment variables.
