@@ -47,9 +47,9 @@
 #include <driver/i2s.h>
 
 // ── FILL THESE IN ──────────────────────────────────────────
-#define WIFI_SSID        "Meet"
-#define WIFI_PASSWORD    "Meet@111"
-#define GROQ_API_KEY     "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"
+#define WIFI_SSID        "your wifi name
+#define WIFI_PASSWORD    "wifi password
+#define GROQ_API_KEY     "your_groq_api_key"      // https://console.groq.com (free tier available)
 #define DEEPGRAM_API_KEY "YOUR_DEEPGRAM_API_KEY"   // console.deepgram.com (free tier available)
 // ───────────────────────────────────────────────────────────
 
