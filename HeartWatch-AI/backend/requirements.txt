@@ -1,0 +1,7 @@
+fastapi
+uvicorn[standard]
+numpy
+scipy
+scikit-learn==1.6.1
+python-multipart
+websockets
