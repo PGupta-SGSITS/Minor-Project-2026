@@ -412,24 +412,19 @@ Location
 
 ### Hardware Setup
 
-![Hardware Setup](Images/01_Hardware_Setup.jpg)
+![Hardware Setup](01_Project_Hardware_Setup.jpeg)
 
 ### SMS Location Alert
 
-![SMS Location Alert](Images/02_SMS_Location_Alert.jpg)
+![SMS Location Alert](02_SMS_Location_Alert.jpeg)
 
 ### Serial Monitor Output
 
-![Serial Monitor Output](Images/03_Serial_Monitor_Output.jpg)
+![Serial Monitor Output](03_Serial_Monitor_Output.jpeg)
 
 ### Firebase Realtime Database
 
-![Firebase Realtime Database](Images/04_Firebase_Realtime_Database.jpg)
-
-### Project Thumbnail
-
-![Project Thumbnail](Images/05_Project_Thumbnail.jpg)
-
+![Firebase Realtime Database](04_Firebase_Realtime_Database.jpeg)
 ---
 
 ## Output
