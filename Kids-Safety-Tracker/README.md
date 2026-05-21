@@ -514,31 +514,6 @@ This project demonstrates the use of embedded systems, IoT, cloud database, and 
 
 ---
 
-## Folder Structure
-
-```text
-Kids-Safety-Tracker/
-│
-├── README.md
-│
-├── Code/
-│   └── kids_safety_tracker.ino
-│
-├── Report/
-│   └── Kids_Safety_Tracker_Report.pdf
-│
-├── Images/
-│   ├── 01_Hardware_Setup.jpg
-│   ├── 02_SMS_Location_Alert.jpg
-│   ├── 03_Serial_Monitor_Output.jpg
-│   ├── 04_Firebase_Realtime_Database.jpg
-│   └── 05_Project_Thumbnail.jpg
-│
-└── Video/
-    └── YouTube_Script.md
-```
-
----
 
 ## Important
 
